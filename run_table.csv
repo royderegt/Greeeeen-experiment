@@ -1,0 +1,7 @@
+__run_id,__done,run_number,code_from,task,execution_time,cpu_usage,memory_usage,energy_usage
+"",false,r3,Llama3.1,1,"","","",""
+"",false,r1,Llama3.1,2,"","","",""
+"",false,r2,Llama3.1,3,"","","",""
+"",false,r1,Hackerrank,1,"","","",""
+"",false,r3,Hackerrank,2,"","","",""
+"",false,r1,Hackerrank,3,"","","",""
